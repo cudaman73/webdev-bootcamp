@@ -18,5 +18,3 @@ function playGame() {
     document.querySelector("h1").innerHTML = "Draw!"
   }
 }
-
-playGame()
