@@ -1,5 +1,5 @@
 function randNum() {
-  return Math.round(Math.random() * 6)
+  return Math.round(Math.random() * 5) + 1
 }
 
 function playGame() {
